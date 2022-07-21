@@ -1,9 +1,13 @@
-# New File
+## Local development
 
-Descripyion
+Opne the browser so you can watch the changes
 
-BYE
+## Commit
+
+
+I have made the new commit in the feature branch
 
 # new 
 
 Ali farooq is just changes the file ha
+
